@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "arab";
+  src: url("./assets/arab4.ttf");
+}
+
+html,
+body {
+  background-color: #18122b;
+}
